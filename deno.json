@@ -4,7 +4,7 @@
   "permissions": {
     "read": ["./data", "./config.json"],
     "write": ["./logs"],
-    "net": ["denoapppractica2-x7fzh38m656d.deno.dev"],
+    "net": ["denoapppractica2-x7fzh38m656d.deno.dev:3000"],
     "env": ["MONGO_URL"]
   }
 }
