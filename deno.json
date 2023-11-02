@@ -1,10 +1,10 @@
 {
-  "name": "practica2denoapp",
+  "name": "denoapppractica2.deno.dev",
   "main": "main.ts",
   "permissions": {
     "read": ["./data", "./config.json"],
     "write": ["./logs"],
-    "net": ["denoapppractica2.deno.dev"],
+    "net": ["denoapppractica2-x7fzh38m656d.deno.dev"],
     "env": ["MONGO_URL"]
   }
 }
