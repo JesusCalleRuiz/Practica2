@@ -1,5 +1,5 @@
 {
-  "name": "my-deno-app",
+  "name": "denoapppractica2",
   "main": "main.ts",
   "permissions": {
     "read": ["./data", "./config.json"],
