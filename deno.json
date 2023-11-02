@@ -1,8 +1,7 @@
 {
-  "deno.enable": true,
-  "deno.lint": true,
-  "deno.unstable": true,
-  "deno.suggest.imports.hosts": {
-    "https://deno.land": false
+  "tasks": {
+    "dev": "deno run --allow-env --allow-read --allow-net --watch main.ts",
+    "start": "deno run --allow-all main.ts"
+    
   }
 }
