@@ -1,10 +1,5 @@
 {
-  "name": "denoapppractica2.deno.dev",
-  "main": "main.ts",
-  "permissions": {
-    "read": ["./data", "./config.json"],
-    "write": ["./logs"],
-    "net": ["denoapppractica2-x7fzh38m656d.deno.dev"],
-    "env": ["MONGO_URL"]
+  "tasks": {
+    "dev": "deno run --allow-env --allow-read --allow-net --watch main.ts"
   }
 }
