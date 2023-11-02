@@ -4,7 +4,7 @@
   "permissions": {
     "read": ["./data", "./config.json"],
     "write": ["./logs"],
-    "net": ["api.example.com:80"],
-    "env": ["MY_API_KEY"]
+    "net": ["denoapppractica2.deno.dev"],
+    "env": ["MONGO_URL"]
   }
 }
